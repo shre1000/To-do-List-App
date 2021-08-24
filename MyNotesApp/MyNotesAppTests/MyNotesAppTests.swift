@@ -2,8 +2,7 @@
 //  MyNotesAppTests.swift
 //  MyNotesAppTests
 //
-//  Created by Kokam on 6/12/18.
-//  Copyright © 2018 Kokam. All rights reserved.
+
 //
 
 import XCTest
